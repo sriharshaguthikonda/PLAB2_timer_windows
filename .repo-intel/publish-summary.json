@@ -1,0 +1,18 @@
+﻿{
+    "schemaVersion":  "repo-map-artifact-branch/v1",
+    "repo":  "sriharshaguthikonda/PLAB2_timer_windows",
+    "generatedAt":  "2026-06-01T06:22:36.2767078Z",
+    "source":  "Repo_maps GitHub footprint publish runner",
+    "publishBranch":  "repo-intel-artifacts",
+    "mapCount":  1,
+    "totalBytes":  54136,
+    "maps":  [
+                 {
+                     "name":  "main",
+                     "ref":  "refs/remotes/origin/main",
+                     "commit":  "64ca003a3a418fb5fe8af5af2ee3f80fedfd2212",
+                     "path":  ".repo-intel/branches/remote-origin/main__64ca003a3a41/repo-map-full.json",
+                     "bytes":  50889
+                 }
+             ]
+}
